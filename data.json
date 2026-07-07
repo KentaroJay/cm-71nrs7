@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-07-03T00:00:00+09:00",
   "cities": [
-    { "id": "sapporo",    "name": "札幌市",    "pref": "北海道",  "prefCode":  1, "submissions": 2, "firstFilledAt": null },
+    { "id": "sapporo",    "name": "札幌市",    "pref": "北海道",  "prefCode":  1, "submissions": 0, "firstFilledAt": null },
     { "id": "sendai",     "name": "仙台市",    "pref": "宮城県",  "prefCode":  4, "submissions": 0, "firstFilledAt": null },
     { "id": "saitama",    "name": "さいたま市",  "pref": "埼玉県",  "prefCode": 11, "submissions": 0, "firstFilledAt": null },
     { "id": "chiba",      "name": "千葉市",    "pref": "千葉県",  "prefCode": 12, "submissions": 0, "firstFilledAt": null },
