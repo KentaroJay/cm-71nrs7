@@ -1,0 +1,25 @@
+{
+  "updatedAt": "2026-07-03T00:00:00+09:00",
+  "cities": [
+    { "id": "sapporo",    "name": "札幌市",    "pref": "北海道",  "prefCode":  1, "submissions": 2, "firstFilledAt": null },
+    { "id": "sendai",     "name": "仙台市",    "pref": "宮城県",  "prefCode":  4, "submissions": 0, "firstFilledAt": null },
+    { "id": "saitama",    "name": "さいたま市",  "pref": "埼玉県",  "prefCode": 11, "submissions": 0, "firstFilledAt": null },
+    { "id": "chiba",      "name": "千葉市",    "pref": "千葉県",  "prefCode": 12, "submissions": 0, "firstFilledAt": null },
+    { "id": "yokohama",   "name": "横浜市",    "pref": "神奈川県", "prefCode": 14, "submissions": 0, "firstFilledAt": null },
+    { "id": "kawasaki",   "name": "川崎市",    "pref": "神奈川県", "prefCode": 14, "submissions": 0, "firstFilledAt": null },
+    { "id": "sagamihara", "name": "相模原市",   "pref": "神奈川県", "prefCode": 14, "submissions": 0, "firstFilledAt": null },
+    { "id": "niigata",    "name": "新潟市",    "pref": "新潟県",  "prefCode": 15, "submissions": 0, "firstFilledAt": null },
+    { "id": "shizuoka",   "name": "静岡市",    "pref": "静岡県",  "prefCode": 22, "submissions": 0, "firstFilledAt": null },
+    { "id": "hamamatsu",  "name": "浜松市",    "pref": "静岡県",  "prefCode": 22, "submissions": 0, "firstFilledAt": null },
+    { "id": "nagoya",     "name": "名古屋市",   "pref": "愛知県",  "prefCode": 23, "submissions": 0, "firstFilledAt": null },
+    { "id": "kyoto",      "name": "京都市",    "pref": "京都府",  "prefCode": 26, "submissions": 0, "firstFilledAt": null },
+    { "id": "osaka",      "name": "大阪市",    "pref": "大阪府",  "prefCode": 27, "submissions": 0, "firstFilledAt": null },
+    { "id": "sakai",      "name": "堺市",     "pref": "大阪府",  "prefCode": 27, "submissions": 0, "firstFilledAt": null },
+    { "id": "kobe",       "name": "神戸市",    "pref": "兵庫県",  "prefCode": 28, "submissions": 0, "firstFilledAt": null },
+    { "id": "okayama",    "name": "岡山市",    "pref": "岡山県",  "prefCode": 33, "submissions": 0, "firstFilledAt": null },
+    { "id": "hiroshima",  "name": "広島市",    "pref": "広島県",  "prefCode": 34, "submissions": 0, "firstFilledAt": null },
+    { "id": "kitakyushu", "name": "北九州市",   "pref": "福岡県",  "prefCode": 40, "submissions": 0, "firstFilledAt": null },
+    { "id": "fukuoka",    "name": "福岡市",    "pref": "福岡県",  "prefCode": 40, "submissions": 0, "firstFilledAt": null },
+    { "id": "kumamoto",   "name": "熊本市",    "pref": "熊本県",  "prefCode": 43, "submissions": 0, "firstFilledAt": null }
+  ]
+}
